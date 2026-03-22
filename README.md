@@ -1,2 +1,2 @@
 # The-Cosmic-Campus-
-"Struggling with Physics? Obsessed with Space? Join The Cosmic Campus! 🚀 Get free study guides, step-by-step math solutions, and discuss the mysteries of the universe with us."
+An educational hub for Space Theories, Physics Notes, and Math Solutions. Built with HTML, CSS, and JS. 🚀"
